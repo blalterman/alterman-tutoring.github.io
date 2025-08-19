@@ -1,4 +1,3 @@
-import { AiSuggestions } from '@/components/ai-suggestions';
 import { Header } from '@/components/header';
 import { NextJsStructure } from '@/components/nextjs-structure';
 import { PrototypeImport } from '@/components/prototype-import';
@@ -11,7 +10,7 @@ export function Dashboard() {
       <Header />
       <main className="flex-1 p-4 sm:p-6 md:p-8">
         <div className="mx-auto grid max-w-7xl grid-cols-1 items-start gap-8 lg:grid-cols-3">
-          <div className="grid gap-8 lg:col-span-2 xl:col-span-2">
+          <div className="grid gap-8 lg:col-span-3 xl:col-span-3">
             <div className="grid gap-8 md:grid-cols-2">
               <PrototypeImport />
               <StructureVisualizer />
@@ -20,9 +19,6 @@ export function Dashboard() {
               <TransformationRules />
               <NextJsStructure />
             </div>
-          </div>
-          <div className="lg:col-span-1 xl:col-span-1">
-             <AiSuggestions />
           </div>
         </div>
       </main>

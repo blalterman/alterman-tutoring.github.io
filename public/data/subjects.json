@@ -1,0 +1,27 @@
+{
+  "math": {
+    "intro": "Comprehensive support for middle school, high school, and early college mathematics.",
+    "topics": [
+      "Pre-algebra",
+      "Algebra",
+      "Geometry",
+      "Trigonometry",
+      "Pre-calculus",
+      "Calculus",
+      "Linear algebra"
+    ]
+  },
+  "physics": {
+    "intro": "Core areas for high school and early college physics.",
+    "topics": [
+      "Mechanics",
+      "Electricity and Magnetism",
+      "Thermodynamics",
+      "Introductory Quantum Mechanics"
+    ]
+  },
+  "latin": {
+    "intro": "Latin section coming soon.",
+    "topics": []
+  }
+}

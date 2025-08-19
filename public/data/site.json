@@ -1,0 +1,19 @@
+{
+  "siteName": "Alterman Tutoring",
+  "tagline": "<choose a tagline (3–7 words)>",
+  "valueProposition": "With 20 years of tutoring experience, I meet students where they are, adapt strategies to how they learn, and build lasting habits that improve grades and reduce stress.",
+  "motivationLine": "I tutor to offer the support I once needed, so students find learning clear, engaging, and within reach.",
+  "primaryCtaLabel": "Email to schedule a free 15-minute consultation",
+  "bookingEmail": "blaltermanphd+tutoring@gmail.com",
+  "ratePerHourUSD": 150,
+  "cancellationPolicy": "24 hours",
+  "selectivityNote": "I take on a limited number of students so the fit is right and the impact is high.",
+  "serviceAreas": [
+    "Takoma Park",
+    "Silver Spring",
+    "Bethesda",
+    "Chevy Chase",
+    "and surrounding areas"
+  ],
+  "serviceSummary": "Math, Physics, and Latin Tutoring for Sixth Grade and Up"
+}

@@ -1,0 +1,18 @@
+{
+  "siteName": "Alterman Tutoring",
+  "tagline": "Personalized Tutoring to Help Students Thrive",
+  "valueProposition": "Expert, one-on-one tutoring in math and physics, tailored to each student's unique learning style. We focus on building deep understanding and confidence.",
+  "motivationLine": "Let's build confidence together.",
+  "primaryCtaLabel": "Schedule a Free Consultation",
+  "bookingEmail": "your-email@example.com",
+  "ratePerHourUSD": 150,
+  "cancellationPolicy": "Cancellations must be made at least 24 hours in advance.",
+  "serviceAreas": [
+    "Takoma Park",
+    "Silver Spring",
+    "Bethesda",
+    "Chevy Chase",
+    "and surrounding areas"
+  ],
+  "levelsServed": "Middle School, High School, and College"
+}

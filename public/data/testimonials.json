@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "<unique id, for example 't1'>",
+      "name": "<attribution name>",
+      "role": "<role of person, for example 'Parent' or 'Student'>",
+      "relationship": "<context, for example 'AP Physics'>",
+      "quote": "<short testimonial quote in 25–60 words>",
+      "date": "<ISO date, for example '2025-01-01'>",
+      "subject": "<subject tag, for example 'Physics'>"
+    }
+  ]
+}
